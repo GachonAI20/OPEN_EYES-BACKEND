@@ -28,7 +28,7 @@ After performing OCR, the extracted text is summarized and the result informatio
 
 <img width="1153" alt="image" src="https://github.com/GachonAI20/OPEN_EYES-BACKEND/assets/88086519/e8c1d17d-7351-43a6-9f60-ff41e6fe9096">
 
-<br/><br/>
+<br/>
 
 The results of OCR are as follows. After performing OCR on the input image, the information is stored as the info of the output result.
 <br/>
@@ -63,7 +63,7 @@ In this way, after performing a summary process suitable for each language, the 
 
 <img width="1192" alt="image" src="https://github.com/GachonAI20/OPEN_EYES-BACKEND/assets/88086519/243d378c-47eb-4dbd-9f6a-9589584d856f">
 
-<br/><br/>
+<br/>
 
 The results of the English summary and the Korean summary are as follows.
 <br/>
@@ -98,13 +98,13 @@ Thereafter, the detection result image and information are stored again in the F
 
 <img width="996" alt="image" src="https://github.com/GachonAI20/OPEN_EYES-BACKEND/assets/88086519/56cf66db-77f2-4160-a196-6f5e41072548">
 
-<br/><br/>
+<br/>
 
 The YOLOv8 model, known to be relatively fast, was used. Based on the YOLOv8 model, the model was trained to increase object recognition performance in real life.
 
 <img width="909" alt="image" src="https://github.com/GachonAI20/OPEN_EYES-BACKEND/assets/88086519/9b95f04c-fe69-42b6-a31c-c64640a46f29">
 
-<br/><br/>
+<br/>
 
 The results of Object Detection are as follows.
 <br/>
