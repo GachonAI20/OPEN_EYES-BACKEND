@@ -120,6 +120,6 @@ Thereafter, the info portion of the same Output Result is delivered to the user 
 
 ## Used Libraries
 
-The libraries required for the code are stored in _requirements.txt_.
+The libraries required for the code are stored in [requirements.txt](requirements.txt).
 <br/>
 You can use the file to install and run the library required for the backend code.
